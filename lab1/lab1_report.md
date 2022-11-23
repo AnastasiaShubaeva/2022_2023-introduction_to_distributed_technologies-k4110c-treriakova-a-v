@@ -66,4 +66,4 @@ At the bottom of the log Root Token can be found. This token will be used to acc
 ## 5. Overall architecture
 The picture below describes entities, which are used in the current lab work.
 
-![image](https://user-images.githubusercontent.com/44613206/203629467-6cddd85e-00af-4c05-a389-a48eb3ccd5ad.png)
+![image](https://user-images.githubusercontent.com/44613206/203629582-09545afe-06b8-4ccc-9ba0-e1560fd372d5.png)
