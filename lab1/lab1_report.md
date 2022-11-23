@@ -62,3 +62,8 @@ To get a token it is necessary to research logs of the vault container:
 At the bottom of the log Root Token can be found. This token will be used to access vault in the future:
 
 ![image](https://user-images.githubusercontent.com/44613206/203628111-9b55dd70-610b-4af8-bf17-1079123164f3.png)
+
+## 5. Overall architecture
+The picture below describes entities, which are used in the current lab work.
+
+![image](https://user-images.githubusercontent.com/44613206/203629467-6cddd85e-00af-4c05-a389-a48eb3ccd5ad.png)
