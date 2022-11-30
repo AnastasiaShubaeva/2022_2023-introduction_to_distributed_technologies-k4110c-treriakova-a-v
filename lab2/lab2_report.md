@@ -9,3 +9,42 @@
 ### Date of finished: 
 
 # Progress
+# 1. Preparing a deployment manifest
+The requirements for creating a deployment manifest are as follows:
+- контейнер - ifilyaninitmo/itdt-contained-frontend:master
+- контейнерный порт - 3000
+- количество реплик - 2
+- должны быть установлены переменные окружения:
+  - REACT_APP_USERNAME
+  - REACT_APP_COMPANY_NAME
+
+Using the requirements above the deployment manifest was created:
+
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend
+  labels:
+    app: frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: frontend
+  template:
+    metadata:
+      labels:
+        app: frontend
+    spec:
+      containers:
+      - name: frontend
+        image: ifilyaninitmo/itdt-contained-frontend:master
+        ports:
+        - containerPort: 3000
+        env:
+        - name: REACT_APP_USERNAME
+          value: Anastasiia
+        - name: REACT_APP_COMPANY_NAME
+          value: ITMO_University
+ ```
