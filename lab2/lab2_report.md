@@ -48,3 +48,4 @@ spec:
         - name: REACT_APP_COMPANY_NAME
           value: ITMO_University
  ```
+![image](https://user-images.githubusercontent.com/44613206/204882367-42bac073-63c4-424b-b039-6367bec3ceed.png)
