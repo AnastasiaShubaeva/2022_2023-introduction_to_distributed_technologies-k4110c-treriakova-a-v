@@ -64,3 +64,14 @@ Also, some information was printed, such as info about deployment and pods.
 
 # 3. Exposing deployment
 After applying, deployment was exposed and port-forwarding was used to reach container from the host machine:
+
+![image](https://user-images.githubusercontent.com/44613206/204884466-f3303376-9ea1-4053-a7e3-af2c755febb1.png)
+
+It was decided to use LoadBalancer service type. As a result, the following page was opened:
+
+![image](https://user-images.githubusercontent.com/44613206/204884382-30a4e6c0-322f-4420-a2c7-1ce47f663436.png)
+
+After refreshing nothing changed. It seems that there is not enough load of a pod, so load balancer decides not to forward requests to another pod.
+
+Logs of pods are also the same:
+
