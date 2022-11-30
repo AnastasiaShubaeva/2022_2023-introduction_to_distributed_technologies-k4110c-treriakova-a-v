@@ -47,6 +47,20 @@ spec:
           value: Anastasiia
         - name: REACT_APP_COMPANY_NAME
           value: ITMO_University
- ```
+```
+ 
+# 2. Applying the manifest
+To apply the manifest it is necessary to use the following command:
+
+```
+kubectl apply -f <file>
+```
+
+So the manifest was applied:
+
 ![image](https://user-images.githubusercontent.com/44613206/204882575-15f40a93-85d7-4b77-9374-d1ee518fd022.png)
 
+Also, some information was printed, such as info about deployment and pods.
+
+# 3. Exposing deployment
+After applying, deployment was exposed and port-forwarding was used to reach container from the host machine:
