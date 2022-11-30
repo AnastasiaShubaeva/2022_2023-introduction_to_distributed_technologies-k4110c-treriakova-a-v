@@ -75,3 +75,10 @@ After refreshing nothing changed. It seems that there is not enough load of a po
 
 Logs of pods are also the same:
 
+![image](https://user-images.githubusercontent.com/44613206/204885157-db75e971-b208-4b83-932c-b17d05bc57c6.png)
+
+4. Overall architecture
+The picture below describes entities, which are used in the current lab work.
+
+
+
