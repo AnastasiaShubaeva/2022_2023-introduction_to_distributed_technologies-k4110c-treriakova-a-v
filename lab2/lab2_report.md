@@ -80,4 +80,5 @@ Logs of pods are also the same:
 # 4. Overall architecture
 The picture below describes entities, which are used in the current lab work.
 
-![image](https://user-images.githubusercontent.com/44613206/204887621-9f2b8a69-d0e7-487b-bc32-e6502a45cdc7.png)
+![image](https://user-images.githubusercontent.com/44613206/204887745-63bdb9ba-df31-4004-a1e7-f8c156589776.png)
+
