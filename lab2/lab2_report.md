@@ -77,8 +77,7 @@ Logs of pods are also the same:
 
 ![image](https://user-images.githubusercontent.com/44613206/204885157-db75e971-b208-4b83-932c-b17d05bc57c6.png)
 
-4. Overall architecture
+# 4. Overall architecture
 The picture below describes entities, which are used in the current lab work.
 
-
-
+![image](https://user-images.githubusercontent.com/44613206/204887621-9f2b8a69-d0e7-487b-bc32-e6502a45cdc7.png)
