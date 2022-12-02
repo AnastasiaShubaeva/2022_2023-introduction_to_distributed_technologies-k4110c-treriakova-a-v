@@ -18,8 +18,8 @@ kind: ConfigMap
 metadata:
   name: frontend-rs-configmap
 data:
-  username: "Vladlen"
-  company: "ITMO"
+  username: "Anastasiia"
+  company: "ITMO_University"
 ```
 
 Second, it was necessary to create a ReplicaSet manifest. The requirements are present below:
@@ -96,9 +96,9 @@ spec:
   tls:
     - secretName: frontend-rs-secret
       hosts:
-        - front.vladlen.com
+        - front.anastasiia.com
   rules:
-    - host: front.vladlen.com
+    - host: front.anastasiia.com
       http:
         paths:
           - pathType: Prefix
@@ -110,7 +110,7 @@ spec:
                   number: 9090
 ```
 
-#2. Creating tls certificate
+# 2. Creating tls certificate
 To create TLS certificate the following commands were used:
 
 ```
