@@ -127,3 +127,14 @@ minikube addons enable ingress-dns
 ```
 
 ![image](https://user-images.githubusercontent.com/44613206/205368219-6daa3ca8-b5fd-4699-ae81-4dc66f40595e.png)
+
+Also, file hosts should be edited like it present below:
+
+```
+127.0.0.1 front.anastasiia.com
+```
+When ingress created, it will be necessary to execute the following command:
+
+```
+minikube tunnel
+```
