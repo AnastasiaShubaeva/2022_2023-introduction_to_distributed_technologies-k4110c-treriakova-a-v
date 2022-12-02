@@ -6,7 +6,7 @@
 ### Author: Tretiakova Anastasia Vladimirovna
 ### Lab: Lab2
 ### Date of create: 30.11.2022
-### Date of finished: 
+### Date of finished: 01.12.2022
 
 # Progress
 # 1. Preparing a deployment manifest
