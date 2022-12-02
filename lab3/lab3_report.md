@@ -117,3 +117,11 @@ To create TLS certificate the following commands were used:
 openssl genrsa -out ca.key -2048
 openssl req -x509 -newkey rsa:4096 -sha256 -nodes -keyout ca.key -out ca.crt
 ```
+
+# 3. Configuring minikube and environment
+Because of using Docker as a minikube driver, it was necessary to add a few addons for minikube:
+
+```
+minikube addons enable ingress
+minikube addons enable ingress-dns
+```
