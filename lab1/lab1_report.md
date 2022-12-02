@@ -6,7 +6,7 @@
 ### Author: Tretiakova Anastasia Vladimirovna
 ### Lab: Lab1
 ### Date of create: 16.11.2022
-### Date of finished: 
+### Date of finished: 01.12.2022
 
 # Progress
 
