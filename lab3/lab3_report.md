@@ -125,3 +125,5 @@ Because of using Docker as a minikube driver, it was necessary to add a few addo
 minikube addons enable ingress
 minikube addons enable ingress-dns
 ```
+
+![image](https://user-images.githubusercontent.com/44613206/205368219-6daa3ca8-b5fd-4699-ae81-4dc66f40595e.png)
