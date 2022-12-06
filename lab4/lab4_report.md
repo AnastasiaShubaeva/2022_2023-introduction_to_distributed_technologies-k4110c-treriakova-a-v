@@ -56,3 +56,22 @@ This example also was taken from official website. To apply the manifest the fol
 ```
 kubectl exec -i -n kube-system calicoctl -- /calicoctl create -f - < ip_pool.yaml
 ```
+
+![image](https://user-images.githubusercontent.com/44613206/205989030-e4e0b6d2-deda-4233-8769-4d73b4e4aae8.png)
+
+However, there was a default ip-pool:
+
+![image](https://user-images.githubusercontent.com/44613206/205989268-06a3fa7e-b613-4537-bde1-cc6eb0d6eb65.png)
+
+So that it was decided to remove it:
+
+![image](https://user-images.githubusercontent.com/44613206/205989569-177391e7-07df-41bc-9df3-5246d3cff9e1.png)
+
+# 3. Accessing the application
+First, it was necessary to execute the following command to expose service:
+
+```
+minikube service frontend-rs-service
+```
+
+After that in the browser new page was opened:
