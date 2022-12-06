@@ -144,3 +144,18 @@ Applying manifests (+ creating TLS secret):
 
 ![image](https://user-images.githubusercontent.com/44613206/205943173-ab101402-6407-402c-9484-8a9d7a9167a8.png)
 
+# 5. Accessing the application
+To access the application it was necessary to go to the following link:
+```
+https://front.anastasiia.com
+```
+
+![image](https://user-images.githubusercontent.com/44613206/205943876-6b4a7b4b-222c-45d0-b6f6-ae70d6245bbb.png)
+
+Certificate information:
+
+![image](https://user-images.githubusercontent.com/44613206/205945104-e420892c-0be1-448e-a57a-3fd23c280d92.png)
+
+# 6. Overall architecture
+The picture below describes entities, which are used in the current lab work.
+
