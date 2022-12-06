@@ -138,3 +138,9 @@ When ingress created, it will be necessary to execute the following command:
 ```
 minikube tunnel
 ```
+
+# 4. Applying manifests
+Applying manifests (+ creating TLS secret):
+
+![image](https://user-images.githubusercontent.com/44613206/205943173-ab101402-6407-402c-9484-8a9d7a9167a8.png)
+
