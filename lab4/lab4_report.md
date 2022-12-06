@@ -67,6 +67,9 @@ So that it was decided to remove it:
 
 ![image](https://user-images.githubusercontent.com/44613206/205989569-177391e7-07df-41bc-9df3-5246d3cff9e1.png)
 
+At the end, manifest with configmap, replica set and service was applied:
+
+
 # 3. Accessing the application
 First, it was necessary to execute the following command to expose service:
 
