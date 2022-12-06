@@ -160,3 +160,4 @@ Certificate information:
 # 6. Overall architecture
 The picture below describes entities, which are used in the current lab work.
 
+![image](https://user-images.githubusercontent.com/44613206/205971733-22b1f5e1-79d4-4a8e-b9ca-703987816f4c.png)
