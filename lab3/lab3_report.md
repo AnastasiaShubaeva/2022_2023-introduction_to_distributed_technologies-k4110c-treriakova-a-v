@@ -150,11 +150,12 @@ To access the application it was necessary to go to the following link:
 https://front.anastasiia.com
 ```
 
-![image](https://user-images.githubusercontent.com/44613206/205943876-6b4a7b4b-222c-45d0-b6f6-ae70d6245bbb.png)
+![image](https://user-images.githubusercontent.com/44613206/205953204-3b3ed6a2-e892-494a-8118-bf9e037f28fd.png)
+
 
 Certificate information:
 
-![image](https://user-images.githubusercontent.com/44613206/205945104-e420892c-0be1-448e-a57a-3fd23c280d92.png)
+![image](https://user-images.githubusercontent.com/44613206/205953295-f5408773-366f-4043-b728-250dc8434be6.png)
 
 # 6. Overall architecture
 The picture below describes entities, which are used in the current lab work.
