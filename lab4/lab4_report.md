@@ -23,6 +23,8 @@ After that it was checked, that all two nodes were successfully created and work
 
 Second, it was necessary to create calicoctl pod to use it. Manifest used in the command was received from official website of calico.
 
+![image](https://user-images.githubusercontent.com/44613206/205988420-b93e338c-751a-42d9-b318-a161ae6492f5.png)
+
 
 # 2. Creating IP-Pools and replica set
 First, it was necessary to create ip-pools.
