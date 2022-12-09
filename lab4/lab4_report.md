@@ -75,7 +75,7 @@ At the stage of starting the service, the computer freezes. It was decided to de
 
 ![image](https://user-images.githubusercontent.com/44613206/206715000-a241ee89-ece7-4824-8bac-fd69bf83fb90.png)
 
-![image](https://user-images.githubusercontent.com/44613206/206715066-2b3ffb6b-3796-4541-bad1-c96f199aa784.png)
+![image](https://user-images.githubusercontent.com/44613206/206717926-361bfbe1-36d9-48ba-b5e8-7f1b2e4ea681.png)
 
 # 3. Accessing the application
 First, it was necessary to execute the following command to expose service:
