@@ -71,6 +71,12 @@ At the end, manifest with configmap, replica set and service was applied:
 
 ![image](https://user-images.githubusercontent.com/44613206/206000120-ca9633c1-9c73-45ec-8f5a-8c5d8aab9039.png)
 
+At the stage of starting the service, the computer freezes. It was decided to deploy the application on another device.
+
+![image](https://user-images.githubusercontent.com/44613206/206715000-a241ee89-ece7-4824-8bac-fd69bf83fb90.png)
+
+![image](https://user-images.githubusercontent.com/44613206/206715066-2b3ffb6b-3796-4541-bad1-c96f199aa784.png)
+
 # 3. Accessing the application
 First, it was necessary to execute the following command to expose service:
 
@@ -78,4 +84,20 @@ First, it was necessary to execute the following command to expose service:
 minikube service frontend-rs-service
 ```
 
+![image](https://user-images.githubusercontent.com/44613206/206715105-5b3732f9-8f20-40f0-9940-e69123cb480e.png)
+
+
 After that in the browser new page was opened:
+
+![image](https://user-images.githubusercontent.com/44613206/206715133-a281d498-fb16-4adb-9fc8-2e81aacc31c0.png)
+
+# 4. Ping containers
+At the end it was checked, that pods can ping each other:
+
+![image](https://user-images.githubusercontent.com/44613206/206715309-cbd6a653-3aee-4f50-8a6d-917374301f0f.png)
+
+# 5. Overall architecture
+The picture below describes entities, which are used in the current lab work.
+
+![image](https://user-images.githubusercontent.com/44613206/206717631-e22edead-19fa-4dbb-abba-e2fb127948e3.png)
+
