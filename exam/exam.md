@@ -3,7 +3,7 @@
 ### Course: Introduction to distributed technologies
 ### Year: 2022/2023
 ### Group: K4110c
-### Author: Tretiakova Anastasia Vladimirovna
+### Author: Tretiakova Anastasiia Vladimirovna
 
 # Question 1: Параметры ERC20, примеры программного кода.
 
