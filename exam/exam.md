@@ -9,7 +9,7 @@
 
 ERC-20 is a technical standard used to issue and implement tokens on the Ethereum blockchain. 
 The ERC-20 standard makes it easier for developers to predict with more accuracy the interaction between different tokens and applications. 
-The ERC-20 gives developers a list of rules to follow, which enables seamless functioning within the larger Ethereum platform. 
+The ERC-20 provides developers with a list of rules to follow to ensure a smooth experience on the Ethereum platform.
 
 6 main functions: 
 * function totalSupply() public view returns (uint256) --total number of tokens in the contract
