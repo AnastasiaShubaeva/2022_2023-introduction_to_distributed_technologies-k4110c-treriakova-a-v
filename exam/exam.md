@@ -34,10 +34,12 @@ The relay chain is responsible for achieving consensus and transaction delivery 
 
 Polkadot uses a proof-of-stake consensus mechanism (as opposed to the proof-of-work system Bitcoin uses) to secure the network, verify transactions, and create and distribute new DOT. There are several ways DOT holders can interact with staking system — depending on how much time, technical knowledge, and money they want to devote. 
 
-Validators do the most work — it’s a major commitment, and requires technical knowhow. To become a validator, you need to run a node (one of the computers that makes up the network) with little to no downtime and stake a substantial amount of your own DOT. In exchange, you get the right to verify legitimate transactions, add new “blocks” of transactions to the relay chain, and potentially earn newly created DOT, a cut of transaction fees, and tips. (On the flip side, you can also forfeit some or all of your staked DOT for acting maliciously, making a mistake, or even having technical difficulties). 
+Validators do the most work. Validator run a node (one of the computers that makes up the network) with little to no downtime and stake a substantial amount of your own DOT. In exchange, they get the right to verify legitimate transactions, add new “blocks” of transactions to the relay chain, and potentially earn newly created DOT, a cut of transaction fees, and tips. 
 
-Nominators allow regular investors to participate in staking indirectly. You can delegate some of your DOT to a validator you trust to behave according to the rules. In exchange, you get a cut of DOT earned by your chosen validators. 
+Nominators allow regular investors to participate in staking indirectly. They delegate some of DOT to a validator. In exchange, they get a cut of DOT earned by chosen validators. 
 
-There are also two specialized roles that typically require less of a commitment than becoming a full validator but more technical skill than is required to be a nominator: Collators keep track of valid parachain transactions and submit them to the relay chain validators. Fishermen help find and report bad behavior across the network. 
+Collators keep track of valid parachain transactions and submit them to the relay chain validators. 
+
+Fishermen help find and report bad behavior across the network. 
 
 By staking and participating in the network via any of the above roles, you may be able to receive DOT rewards. DOT holders also have a say in the governance of the network and are able to vote on proposed software upgrades.
