@@ -34,7 +34,7 @@ Polkadot is a protocol that connects blockchains — allowing value and data to 
 
 The Polkadot protocol is designed to allow unrelated blockchains to securely talk to each other, so that value or data can flow between. It’s also designed to be speedy and scalable, via the use of many parallel blockchains (or “parachains”) that take much of the processing demand off of the main blockchain.   
 
-The Polkadot token (DOT) serves two main functions within the Polkadot network: it’s a governance token, which allows holders to have a say in the future of the protocol, and it’s used  for staking, which is the way the Polkadot network verifies transactions and issues new DOT. DOT can be bought and sold on exchanges like Coinbase as part of your investment strategy. 
+The Polkadot token (DOT) serves two main functions within the Polkadot network: it’s a governance token, which allows holders to have a say in the future of the protocol, and it’s used  for staking, which is the way the Polkadot network verifies transactions and issues new DOT.
 
 The relay chain is responsible for achieving consensus and transaction delivery among parachains. Parachains are application-specific blockchains within the Polkadot network. Each parachain is an entire blockchain in and of itself, with its own logic and features.
 
