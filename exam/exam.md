@@ -9,8 +9,7 @@
 
 ERC-20 is a technical standard used to issue and implement tokens on the Ethereum blockchain. 
 The ERC-20 standard makes it easier for developers to predict with more accuracy the interaction between different tokens and applications. It also defines how ERC-20 tokens are transferred within the Ethereum blockchain and how their respective supply and address balances are being consistently recorded. 
-The ERC-20 gives developers a list of rules to follow, which enables seamless functioning within the larger Ethereum platform. Numerous decentralized applications (DApps) and services support ERC-20 tokens, making it easier for community members and businesses to adopt and use them on a wide range of applications (such as cryptocurrency wallets, decentralized exchanges, games, and so forth).
-Although the majority of tokens on the Ethereum network follow the ERC-20 standard, there are some exceptions. Ether (ETH), for instance, was created before the standard and does not comply with it yet. This led to the creation of the so-called Wrapped Ether (WETH) - which is an ERC-20 token that represents Ether at a 1:1 ratio (1 WETH = 1 ETH). WETH allows users to trade their ETH to other ERC-20 tokens on decentralized exchanges.
+The ERC-20 gives developers a list of rules to follow, which enables seamless functioning within the larger Ethereum platform. 
 
 6 main functions: 
 * function totalSupply() public view returns (uint256) --total number of tokens in the contract
@@ -23,14 +22,11 @@ Although the majority of tokens on the Ethereum network follow the ERC-20 standa
 There may also be others - name, symbol, and decimal, but they are not so important.
 All of these functions work within the programming language that underlies Ethereum.
 
-Contract ERC-20. It can be used to request a general token offer, check balances, transfer funds, and grant permissions to other DApps to manage tokens.
-The main advantage of ERC-20 tokens is flexibility. Using them, you can also implement additional features and set certain parameters according to your needs.
-
 Cade contract for issuing a token: https://github.com/masTechDeveloper/ERC20-Standard-Token
 
 # Question 2: Экосистема Polkadot и ее архитектура. Типы и роли узлов в экосистеме.
 
-Polkadot is a protocol that connects blockchains — allowing value and data to be sent across previously incompatible networks (Bitcoin and Ethereum, for example). The DOT token is used for staking and governance; it can be bought or sold on Coinbase and other exchanges. 
+Polkadot is a protocol that connects blockchains — allowing value and data to be sent across previously incompatible networks (Bitcoin and Ethereum, for example). The DOT token is used for staking and governance; it can be bought or sold on exchanges. 
 
 The Polkadot protocol also designed to be speedy and scalable, via the use of many parallel blockchains (or “parachains”) that take much of the processing demand off of the main blockchain.   
 
