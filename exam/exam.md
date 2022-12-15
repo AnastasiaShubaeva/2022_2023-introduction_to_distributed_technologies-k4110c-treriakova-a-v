@@ -36,7 +36,7 @@ Polkadot uses a proof-of-stake consensus mechanism (as opposed to the proof-of-w
 
 Validators do the most work — it’s a major commitment, and requires technical knowhow. To become a validator, you need to run a node (one of the computers that makes up the network) with little to no downtime and stake a substantial amount of your own DOT. In exchange, you get the right to verify legitimate transactions, add new “blocks” of transactions to the relay chain, and potentially earn newly created DOT, a cut of transaction fees, and tips. (On the flip side, you can also forfeit some or all of your staked DOT for acting maliciously, making a mistake, or even having technical difficulties). 
 
-Nominators allow regular investors to participate in staking indirectly. You can delegate some of your DOT to a validator you trust to behave according to the rules. In exchange, you get a cut of DOT earned by your chosen validators. Be careful with who you choose: you also can forfeit some of your stake if your validator breaks the rules.
+Nominators allow regular investors to participate in staking indirectly. You can delegate some of your DOT to a validator you trust to behave according to the rules. In exchange, you get a cut of DOT earned by your chosen validators. 
 
 There are also two specialized roles that typically require less of a commitment than becoming a full validator but more technical skill than is required to be a nominator: Collators keep track of valid parachain transactions and submit them to the relay chain validators. Fishermen help find and report bad behavior across the network. 
 
