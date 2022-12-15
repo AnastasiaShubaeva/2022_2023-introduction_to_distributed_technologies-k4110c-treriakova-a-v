@@ -32,7 +32,7 @@ Cade contract for issuing a token: https://github.com/masTechDeveloper/ERC20-Sta
 
 Polkadot is a protocol that connects blockchains — allowing value and data to be sent across previously incompatible networks (Bitcoin and Ethereum, for example). The DOT token is used for staking and governance; it can be bought or sold on Coinbase and other exchanges. 
 
-The Polkadot protocol is designed to allow unrelated blockchains to securely talk to each other, so that value or data can flow between. It’s also designed to be speedy and scalable, via the use of many parallel blockchains (or “parachains”) that take much of the processing demand off of the main blockchain.   
+The Polkadot protocol also designed to be speedy and scalable, via the use of many parallel blockchains (or “parachains”) that take much of the processing demand off of the main blockchain.   
 
 The Polkadot token (DOT) serves two main functions within the Polkadot network: it’s a governance token, which allows holders to have a say in the future of the protocol, and it’s used  for staking, which is the way the Polkadot network verifies transactions and issues new DOT.
 
