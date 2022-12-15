@@ -8,7 +8,7 @@
 # Question 1: Параметры ERC20, примеры программного кода.
 
 ERC-20 is a technical standard used to issue and implement tokens on the Ethereum blockchain. 
-The ERC-20 standard makes it easier for developers to predict with more accuracy the interaction between different tokens and applications. It also defines how ERC-20 tokens are transferred within the Ethereum blockchain and how their respective supply and address balances are being consistently recorded. 
+The ERC-20 standard makes it easier for developers to predict with more accuracy the interaction between different tokens and applications. 
 The ERC-20 gives developers a list of rules to follow, which enables seamless functioning within the larger Ethereum platform. 
 
 6 main functions: 
